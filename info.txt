@@ -1,0 +1,16 @@
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            stdname TEXT,
+            stdemail TEXT,
+            stdphone TEXT,
+            stdaddress TEXT,
+            stmathmatic INTEGER,
+            starabic INTEGER,
+            stfrance INTEGER,
+            stenglish INTEGER,
+            stdrowing INTEGER,
+            stchemistry INTEGER
+
+
+
+
+            'id', 'stdname', 'stdemail', 'stdphone', 'stdaddress', 'stmathmatic', 'starabic', 'stfrance', 'stenglish', 'stdrowing', 'stchemistry'
